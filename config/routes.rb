@@ -1,5 +1,6 @@
 PetitionApp::Application.routes.draw do
+  devise_for :users
   devise_for :views
 
-  root :to => 'home#index' #change later
+  root :to => 'devise/sessions#new'
 end
