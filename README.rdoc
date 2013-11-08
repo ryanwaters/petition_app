@@ -1,3 +1,5 @@
 This is a code challenge from Change.org 
 
-The idea is to make a petition app in a few hours
+The idea is to make a petition app in a few hours, TDD style
+
+Still working on it
